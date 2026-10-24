@@ -1,0 +1,6 @@
+{
+  "name": "Mind Eyes - منصة تعليمية تفاعلية للأطفال",
+  "description": "منصة تعليمية تفاعلية للأطفال تربط بين القصة، المنهج العلمي، الأنشطة العملية وتجارب المعمل، وتقييم المهارات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
